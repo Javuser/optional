@@ -13,7 +13,7 @@ public class task1 {
         }
     }
 
-    public static Optional<List<Integer>> func (List < Integer > list) {
+    public static Optional<List<Integer>> func (List <Integer> list) {
         list.add(4);
         list.add(5);
         list.add(-1);
